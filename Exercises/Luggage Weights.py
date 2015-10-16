@@ -1,8 +1,5 @@
 __author__ = 'w0291640'
 
-"""max amt weight 50lbs
-25$ added for greater than 50lbs
-"""
 weight = float(input("Enter the weight of your luggage: "))
 surcharge = 25.00
 weightThreshold = 50
